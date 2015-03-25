@@ -14,7 +14,7 @@ Programme:
 -[Projet] Création d'un mini solveur
 
 Améliorations à apporter:
--Aucune
+-Le professeur ne devrait pas considérer que tous ces élèves ont des notions de recherche opérationnelle
 
 ========================================================
 		Multicore Programming
