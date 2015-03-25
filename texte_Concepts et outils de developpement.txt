@@ -1,0 +1,13 @@
+Pre-requis:
+
+
+
+Competences acquises:
+Utilisation des Auto-tools : création de makefile
+
+
+Programme:
+
+
+
+Ameliorations a apporter:
