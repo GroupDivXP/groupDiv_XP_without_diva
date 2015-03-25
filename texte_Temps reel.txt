@@ -1,7 +1,6 @@
 Pre-requis:
 ----
-Aucun
-
+- Bases en langage C
 
 Compétences acquises:
 ----
