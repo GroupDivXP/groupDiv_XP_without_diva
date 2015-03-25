@@ -1,9 +1,9 @@
 Pre-requis:
 -Programmation C++ et Java.
-
+-Savoir dessiner, utiliser des ciseaux...
 
 Competences acquises:
--Analyses d'un programme en vue de déterminer les éléments à mettre en avant dans l'interface.
+-Analyse d'un programme en vue de déterminer les éléments à mettre en avant dans l'interface.
 -Devellopement d'interfaces graphiques.
 
 
