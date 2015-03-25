@@ -6,7 +6,7 @@ Bonne connaissance du concept objet.
 Competences acquises:
 
 Chargement dynamique des classes. 
-Utilisation de proxy java.
+Création de proxy java.
 Création de plugin eclipse.
 
 Programme:
@@ -19,5 +19,3 @@ Ameliorations a apporter:
 
 Présence du professeur lors des cours.
 Support de cours.
-
-Un truc
