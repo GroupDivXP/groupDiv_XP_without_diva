@@ -4,7 +4,7 @@ Pre-requis:
 
 Competences acquises:
 -Utilisation d'algorithmes de Branch and Prune pour éliminer des non-solutions
--
+-Modélisation de problèmes
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
