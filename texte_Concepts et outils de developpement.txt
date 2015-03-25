@@ -3,8 +3,11 @@ Pre-requis:
 
 
 Competences acquises:
-Utilisation des Auto-tools : création de makefile
 
+-Utilisation des Auto-tools : création de makefile
+-Création de documentation :	
+	--> Documentation du code source avec Doxygen pour le c++
+	--> Documentation logiciel avec latex
 
 Programme:
 
