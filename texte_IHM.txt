@@ -12,3 +12,5 @@ Conception papier puis dévelloppement d'une interface pour ordinateur de bureau
 Conception papier puis dévelloppement d'une interface pour Android.
 
 Ameliorations a apporter:
+Rendre les projets moins long (en faire un seul) pour permettre aux étudiants 
+de produir un meilleur résultat.
