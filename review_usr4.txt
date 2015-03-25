@@ -1,2 +1,3 @@
 101150|Data structure et Complexity|usr4: Dans Programme deux suites prend un s
 101752|Logiciel extensible|usr4: Mettre le Projet dans le programme
+102733|Concepts et outils de developpement|usr4: Amélioration : cours moins long sur les Makefiles (trop concret pour s'en souvenir en CM). Voir les notions en TP.
