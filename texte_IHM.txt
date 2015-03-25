@@ -15,3 +15,4 @@ Ameliorations a apporter:
 -Faire un seul projet pour permettre aux étudiants de produir un meilleur résultat.
 -Un cours plus proche de ce que l'on doit utiliser dans les projets (Qt et Android) et non des notions vagues d'éléments dont nous ne nous serverons pas.
 -Montrer des exemples de ce que l'on doit faire et ne doit pas faire comme interfaces.
+-Faire un cours en français ou en anglais correct.

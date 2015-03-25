@@ -21,3 +21,4 @@ Ameliorations a apporter:
 
 Présence du professeur lors des cours.
 Support de cours.
+Pour le projet : définir plus clairement le type de structure attendue dès le départ (et pas à mi-run)
