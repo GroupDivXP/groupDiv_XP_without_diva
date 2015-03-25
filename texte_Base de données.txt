@@ -1,0 +1,14 @@
+Pre-requis:
+Des bases de requêtes SQL et Oracle, et de conception de bases de données
+
+
+Competences acquises:
+XMLPath, XMLSchema, XQuery, DTD, conception d'un entrepôt de données
+
+
+Programme:
+Entrepôt de données, requêtes imbriquées, cubiques, traitement et requêtes de XML(DTD, XML Schema, XML Path, XQuery)
+
+
+Ameliorations a apporter:
+améliorer la partie entrepôt et alléger la partie XML qui n'est pas primordiale en Base de données
