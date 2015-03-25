@@ -1,5 +1,6 @@
 Pre-requis:
 -Programmation C++ et Java.
+-Avoir des idées d'interfaces et connaitre ce qui se fait déja.
 -Savoir dessiner, utiliser des ciseaux...
 
 Competences acquises:
