@@ -2,11 +2,13 @@
 		Constraint Programming
 ========================================================
 Pré-requis:
--Avoir des notions de Recherche opérationnelle
+-Avoir des notions de Recherche Opérationnelle
 
 Compétences acquises:
--Utilisation d'algorithmes de Branch and Prune pour éliminer des non-solutions
--Modélisation de problèmes
+-Modélisation de problèmes (variables binaires et entières)
+-Utilisation d'algorithmes pour éliminer des non-solutions
+	-->Backtracking
+	-->Branch and Prune
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
@@ -14,7 +16,7 @@ Programme:
 -[Projet] Création d'un mini solveur
 
 Améliorations à apporter:
--Le professeur ne devrait pas considérer que tous ces élèves ont des notions de recherche opérationnelle
+-Le professeur ne devrait pas considérer que tous ses élèves ont des notions de Recherche Opérationnelle
 
 ========================================================
 		Multicore Programming

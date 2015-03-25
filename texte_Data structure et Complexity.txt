@@ -4,6 +4,7 @@
 Pre-requis: 
 -Savoir lire et écrire
 -Avoir des bases en pseudo-code et en mathématiques
+-savoir programmer au moins en JAVA
 
 
 Competences acquises: 
