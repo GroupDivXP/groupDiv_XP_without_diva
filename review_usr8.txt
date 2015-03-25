@@ -1,0 +1,1 @@
+100548|IHM|usr8: amélioration : proposer un vrai cours de programmation (Qt ou android) et pas seulement de vague notion de ce qui existe

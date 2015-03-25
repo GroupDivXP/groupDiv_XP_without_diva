@@ -1,0 +1,21 @@
+Pre-requis:
+
+Connaissance du Java
+Bonne connaissance du concept objet.
+
+Competences acquises:
+
+Chargement dynamique des classes. 
+Utilisation de proxy java.
+Création de plugin eclipse.
+
+Programme:
+
+Java Reflexive
+Proxy java
+Plugin Eclipse
+
+Ameliorations a apporter:
+
+Présence du professeur lors des cours.
+Support de cours.
