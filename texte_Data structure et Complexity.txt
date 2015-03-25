@@ -20,11 +20,14 @@ Ameliorations a apporter:
 				Complexity
 
 Pre-requis:
-
+-Savoir lire et écrire
+-Avoir des bases en pseudo-code et en mathématiques
 
 
 Competences acquises:
-
+-Algorithmique
+-méthodologie
+-Refresh sur les formes polynomiales, exponentielles et logarithmiques
 
 
 Programme: 
