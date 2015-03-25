@@ -4,3 +4,4 @@
 102032|IHM|usr2: Pre-requis: Avoir de l'imagination pour les paper-prototype et story board
 102122|Concepts et outils de developpement|usr2: faire des TP où on utilise typiquement les logiciels à utiliser pour les projets
 102244|Logiciel extensible|usr2: Si le prof ne veut pas utiliser de cours, qu'il structure d'une façon plus claire ce qu'il écrit au tableau #typiquement
+102457|Data structure et Complexity|usr2: Pre-requis: Typiquement savoir programmer au moins en JAVA
