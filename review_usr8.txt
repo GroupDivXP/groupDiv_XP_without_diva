@@ -1,2 +1,3 @@
 100548|IHM|usr8: amélioration : proposer un vrai cours de programmation (Qt ou android) et pas seulement de vague notion de ce qui existe
 100906|Concepts et outils de developpement|usr8: pré-requis: compétences en C/C++
+101559|Concepts et outils de developpement|usr8: amélioration : que le projet soit mieux expliqué (surtout concernant ce qui doit être rendu)
