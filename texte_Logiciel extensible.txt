@@ -15,6 +15,8 @@ Java Reflexive
 Proxy java
 Plugin Eclipse
 
+Projet : Développement d'une application (au choix) à base de plugin
+
 Ameliorations a apporter:
 
 Présence du professeur lors des cours.
