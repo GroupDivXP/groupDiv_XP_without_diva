@@ -1,6 +1,6 @@
 Pre-requis:
 ----
-- Avoir des bases en langage C
+Aucun
 
 
 Compétences acquises:
