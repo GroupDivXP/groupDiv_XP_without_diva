@@ -11,12 +11,15 @@ Competences acquises:
 	--> Documentation du code source avec Doxygen pour le c++		
 	--> Documentation logiciel avec latex
 -Initiation au gestionnaire de version avec svn
+-Initiation à la securité logiciel
 
 Programme:
 
--Réalisation d'application c/c++, entièrement compilé avec les auto-tools et documenté en doxygen
--Réalisation de documentation utilisateur en latex
-
+				[Projet]
+Objectif:
+-Réalisation d'application c/c++, entièrement compilé avec les auto-tools et documenté en doxygen.
+-Réalisation de la documentation utilisateur en latex
+-Gestion du projet de groupe grace à svn
 
 Ameliorations a apporter:
 

@@ -1,3 +1,4 @@
 101108|Web Semantique|usr1: Etait-ce le projet LodPaddle dont vous semblez parler ? car je ne connais pas "loodpadle" ...
 101315|Logiciel extensible|usr1: Amélioration : Pour le projet, le prof devrait typiquement passer plus de temps avec ceux qui ne code par la partie plateforme
 101719|IHM|usr1: Amélioration : Proposer plus d'exemple d'IHM réussies avec pourquoi pas une étude de cas
+102158|Web Semantique|usr1: Programme : TP noté sur les requetes SPARQL
