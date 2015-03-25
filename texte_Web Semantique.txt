@@ -13,6 +13,7 @@ Programme: 		-Graph RDF
 		-Endpoints
 		-Open Data
 		-Projet dataNantes, LodPaddle
+		-TP noté les requêtes SPARQL
 
 
 
