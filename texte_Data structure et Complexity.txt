@@ -1,4 +1,6 @@
-Data Structure
+================================================================================
+				Data Structure
+================================================================================
 Pre-requis: 
 -Savoir lire et écrire
 -Avoir des bases en pseudo-code et en mathématiques
@@ -17,7 +19,10 @@ Ameliorations a apporter:
 -Plus grande période accordée au projet, ou réduction de celui-ci
 
 
+================================================================================
 				Complexity
+================================================================================
+
 
 Pre-requis:
 -Savoir lire et écrire
