@@ -1,23 +1,26 @@
 Pre-requis:
 
--Bonne connaissance en c et c++
+-Bonne connaissance en c et c++.
 
 Competences acquises:
 
 -Utilisation des Auto-tools pour la compilation:
-	--> conception de makefile basique
+	--> conception de makefile basique.
 	--> génération automatique de makefile ( autoconf, autoheader, etc ...)
 -Création de documentation :	
-	--> Documentation du code source avec Doxygen pour le c++		
-	--> Documentation logiciel avec latex
--Initiation au gestionnaire de version avec svn
+	--> Documentation du code source avec Doxygen pour le c++.
+	--> Documentation logiciel avec latex.
+-Initiation au gestionnaire de version avec svn.
+-Initiation à la securité logiciel.
 
 Programme:
 
--Réalisation d'application c/c++, entièrement compilé avec les auto-tools et documenté en doxygen
--Réalisation de documentation utilisateur en latex
-
+				[Projet]
+Objectif:
+-Réalisation d'une application c/c++, entièrement compilé avec les auto-tools et documenté en doxygen.
+-Réalisation de la documentation utilisateur en latex.
+-Gestion du projet de groupe grace à svn.
 
 Ameliorations a apporter:
 
--Mise à disponibilté d'une vrai salle de cours
+-Mise à disponibilté d'une vrai salle de cours.
