@@ -5,7 +5,7 @@ Pre-requis:
 
 Competences acquises:
 -Analyse d'un programme en vue de déterminer les éléments à mettre en avant dans l'interface.
--Devellopement d'interfaces graphiques.
+-Développement d'interfaces graphiques.
 
 
 Programme:
