@@ -4,6 +4,7 @@
 Pre-requis: 
 -Savoir lire et écrire
 -Avoir des bases en pseudo-code et en mathématiques
+-savoir programmer au moins en JAVA
 
 
 Competences acquises: 
@@ -40,3 +41,4 @@ Programme:
 -Apprentissage des méthodes pour démontrer que des problèmes peuvent être NP Complets
 - Démonstration de divers problèmes connus en algorithmique, comme le "3-SAT"
 Ameliorations a apporter:
+Distincyion des problèmes NP, NP-complet, polynomiaux

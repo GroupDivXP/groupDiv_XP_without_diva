@@ -3,3 +3,4 @@
 101719|IHM|usr1: Amélioration : Proposer plus d'exemple d'IHM réussies avec pourquoi pas une étude de cas
 102158|Web Semantique|usr1: Programme : TP noté sur les requetes SPARQL
 102311|IHM|usr1: *Développement*
+102820|Logiciel extensible|usr1: (Amélioration) Faire : Soit aucun TP sur le plugin Eclipse, soit plusieurs d'affilée, mais pas un seul tombé du ciel
