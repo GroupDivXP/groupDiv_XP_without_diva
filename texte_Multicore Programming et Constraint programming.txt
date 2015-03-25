@@ -6,7 +6,9 @@ Pré-requis:
 
 Compétences acquises:
 -Modélisation de problèmes (variables binaires et entières)
--Utilisation d'algorithmes de Branch and Prune pour éliminer des non-solutions
+-Utilisation d'algorithmes pour éliminer des non-solutions
+	-->Backtracking
+	-->Branch and Prune
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
