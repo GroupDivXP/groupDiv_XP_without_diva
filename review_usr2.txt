@@ -2,3 +2,4 @@
 101053|Logiciel extensible|usr2: Typiquement que le prof se mette au niveau de tous les étudiants
 101239|IHM|usr2: Typiquement avoir plus de temps pour les projets ou réduire la taille de ceux-ci
 102032|IHM|usr2: Pre-requis: Avoir de l'imagination pour les paper-prototype et story board
+102122|Concepts et outils de developpement|usr2: faire des TP où on utilise typiquement les logiciels à utiliser pour les projets
