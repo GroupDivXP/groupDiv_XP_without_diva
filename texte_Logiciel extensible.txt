@@ -5,7 +5,8 @@ Connaissance du Java
 
 Competences acquises:
 
-
+Chargement dynamique des classes. 
+Création de plugin eclipse.
 
 Programme:
 
