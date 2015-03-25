@@ -12,7 +12,7 @@ Programme: 		-Graph RDF
 		-SPARQL
 		-Endpoints
 		-Open Data
-		-Projet dataNantes, loodpadle
+		-Projet dataNantes, LodPaddle
 
 
 
