@@ -11,4 +11,4 @@ Entrepôt de données, requêtes imbriquées, cubiques, traitement et requêtes 
 
 
 Ameliorations a apporter:
-améliorer la partie entrepôt et alléger la partie XML qui n'est pas primordiale en Base de données
+améliorer de la partie entrepôt et alléger la partie XML qui n'est pas primordiale en Base de données

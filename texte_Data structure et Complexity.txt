@@ -1,4 +1,6 @@
-Data Structure
+================================================================================
+				Data Structure
+================================================================================
 Pre-requis: 
 -Savoir lire et écrire
 -Avoir des bases en pseudo-code et en mathématiques
@@ -17,18 +19,24 @@ Ameliorations a apporter:
 -Plus grande période accordée au projet, ou réduction de celui-ci
 
 
+================================================================================
 				Complexity
+================================================================================
+
 
 Pre-requis:
-
+-Savoir lire et écrire
+-Avoir des bases en pseudo-code et en mathématiques
 
 
 Competences acquises:
-
+-Algorithmique
+-méthodologie
+-Refresh sur les formes polynomiales, exponentielles et logarithmiques
 
 
 Programme: 
--Projet "Plus Long Texte Commun" : création d'une interface java avec choix entre 3 algorithmes permettant de calculer le plus long texte commun entre deux suite de caractères.
+-Projet "Plus Long Texte Commun" : création d'une interface java avec choix entre 3 algorithmes permettant de calculer le plus long texte commun entre deux suites de caractères.
 -Apprentissage des méthodes pour démontrer que des problèmes peuvent être NP Complets
 - Démonstration de divers problèmes connus en algorithmique, comme le "3-SAT"
 Ameliorations a apporter:
