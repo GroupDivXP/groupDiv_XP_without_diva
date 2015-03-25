@@ -13,3 +13,4 @@ Entrepôt de données, requêtes imbriquées, cubiques, traitement et requêtes 
 Ameliorations a apporter:
 améliorer de la partie entrepôt et alléger la partie XML qui n'est pas primordiale en Base de données
 Ne donner qu'un seul projet, et non un tp noté, un projet (avec présentation) et un exposé en même temps
+Présentation des bases de données NoSQL
