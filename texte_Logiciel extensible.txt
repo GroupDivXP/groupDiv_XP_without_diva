@@ -1,7 +1,7 @@
 Pre-requis:
 
 Connaissance du Java
-Bonne connaissance du concept de langage objet.
+Bonne connaissance du concept objet.
 
 Competences acquises:
 
