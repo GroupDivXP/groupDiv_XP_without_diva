@@ -5,18 +5,18 @@ Aucun
 
 Compétences acquises:
 ----
-Compétences en développement (sous Linux Xenomai)
-Compétences en ordonnancement de tâches
-Compétences en manipulation de systèmes à opérations parallèles
-Création et compilation d'un Linux embarqué temps-réel
+- Compétences en développement (sous Linux Xenomai)
+- Compétences en ordonnancement de tâches
+- Compétences en manipulation de systèmes à opérations parallèles
+- Création et compilation d'un Linux embarqué temps-réel
 
 Programme:
 ----
-Sensibilisation aux différents modèles de temps réel et leurs applications (laboratoire/industrie)
-Retour sur l'architecture des ordinateurs et la nécessité des processeurs multicoeurs
-Sensibilisation aux problématiques liées aux opérations parallèles
-Compréhension des systèmes de verrous sur accès aux données
-Compréhension de différents modèles d'ordonnancement, de leurs avantages et inconvénients
+- Sensibilisation aux différents modèles de temps réel et leurs applications (laboratoire/industrie)
+- Retour sur l'architecture des ordinateurs et la nécessité des processeurs multicoeurs
+- Sensibilisation aux problématiques liées aux opérations parallèles
+- Compréhension des systèmes de verrous sur accès aux données
+- Compréhension de différents modèles d'ordonnancement, de leurs avantages et inconvénients
 
 
 Améliorations a apporter:
