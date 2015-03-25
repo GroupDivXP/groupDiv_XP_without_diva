@@ -9,6 +9,7 @@ Compétences acquises:
 -Utilisation d'algorithmes pour éliminer des non-solutions
 	-->Backtracking
 	-->Branch and Prune
+	-->Forward checking
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
