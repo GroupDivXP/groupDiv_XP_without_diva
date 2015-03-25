@@ -1,6 +1,6 @@
 Pre-requis:
 ----
-Aucun
+Avoir des bases en lmangage C
 
 
 Compétences acquises:
