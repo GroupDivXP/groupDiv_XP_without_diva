@@ -1,2 +1,3 @@
 100253|IHM|usr6: Programmation Android (java+xml)
 101501|Multicore Programming et Constraint programming|usr6: Amelioration : Le prof ne devrait pas considérer que nous avons tous fait de la recherche opérationnelle l'an passé car il nous parle de concept lié que nous ne n'avons pas tous étudié
+101620|Multicore Programming et Constraint programming|usr6: Edit : Amélioration concerne le module constraint programming
