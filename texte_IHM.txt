@@ -8,9 +8,10 @@ Competences acquises:
 
 
 Programme:
--Conception papier puis dévelloppement d'une interface pour ordinateur de bureau.
+-Conception papier puis dévelloppement d'une interface pour ordinateur de bureau (Qt/C++).
 -Conception papier puis dévelloppement d'une interface pour Android (java+xml).
 
 Ameliorations a apporter:
 -Rendre les projets moins long (en faire un seul) pour permettre aux étudiants 
 de produir un meilleur résultat.
+-Un cours plus proche de ce que l'on doit utiliser dans les projets (Qt et Android) et non des notions vagues d'éléments dont nous ne nous serverons pas.
