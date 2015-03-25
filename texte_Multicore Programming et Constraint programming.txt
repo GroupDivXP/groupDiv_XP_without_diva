@@ -15,6 +15,7 @@ Compétences acquises:
 Programme:
 -Modélisation d'un problème grâce à des contraintes
 -Algorithmes de prunning
+-Consistence des problèmes
 -[TP] Utilisation du solveur Minizinc
 -[Projet] Création d'un mini solveur
 
@@ -30,10 +31,14 @@ Pre-requis:
 Compétences acquises:
 -Utilisation de Sémaphores
 -Utilisation de librairies spécifiques au mutli-threading
+	-->Librairie standard C++11
+	-->OpenMP
+	-->Intel TBB
+	-->MPI
 
 Programme:
 -Fonctionnement du multi-threading selon les architectures
--Librairies multi-thread: OpenMp, Intel TBB, MPI et la librairie standard C++11
+-Librairies multi-thread
 -[Projet] Utilisation du multi-threading pour optimiser un programme C++
 
 Améliorations à apporter:
