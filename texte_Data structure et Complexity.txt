@@ -1,0 +1,34 @@
+Data Structure
+Pre-requis: 
+-Savoir lire et écrire
+-Avoir des bases en pseudo-code et en mathématiques
+
+
+Competences acquises: 
+-Algorithmique
+-méthodologie
+-Refresh sur les formes polynomiales, exponentielles et logarithmiques
+ 
+Programme:  
+-Projet "Algorithme de Résolution de VERTEX COVER" : création d'une interface avec choix entre 5 algorithmes utilisant tous de la génération de graphe.
+- Démonstration de divers problèmes connus en algorithmique, comme le "VERTEX COVER" 
+
+Ameliorations a apporter:
+-Plus grande période accordée au projet, ou réduction de celui-ci
+
+
+				Complexity
+
+Pre-requis:
+
+
+
+Competences acquises:
+
+
+
+Programme: 
+-Projet "Plus Long Texte Commun" : création d'une interface java avec choix entre 3 algorithmes permettant de calculer le plus long texte commun entre deux suite de caractères.
+-Apprentissage des méthodes pour démontrer que des problèmes peuvent être NP Complets
+- Démonstration de divers problèmes connus en algorithmique, comme le "3-SAT"
+Ameliorations a apporter:

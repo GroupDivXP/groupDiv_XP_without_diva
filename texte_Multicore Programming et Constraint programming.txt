@@ -1,25 +1,29 @@
+========================================================
 Constraint Programming
-Pre-requis:
+========================================================
+Pré-requis:
 -Avoir des notions de Recherche opérationnelle
 
-Competences acquises:
+Compétences acquises:
 -Utilisation d'algorithmes de Branch and Prune pour éliminer des non-solutions
--
+-Modélisation de problèmes
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
 -Utilisation du solveur Minizinc
+-Création d'un mini solveur
 
-Ameliorations a apporter:
+Améliorations à apporter:
 
-
+========================================================
 Multicore Programming
+========================================================
 Pre-requis:
 -Avoir une bonne connaissance des langages C et C++
 
-Competences acquises:
+Compétences acquises:
 
 Programme:
 -Librairies multi-thread: OpenMp, Intel TBB, MPI et la librairie standard C++11
 
-Ameliorations a apporter:
+Améliorations à apporter:
