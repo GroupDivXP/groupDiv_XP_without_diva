@@ -4,3 +4,4 @@
 102004|Logiciel extensible|usr5: Pour le projet : définir plus clairement le type de structure attendu dès le départ (et pas à mi-run)
 102019|Logiciel extensible|usr5: Disposer d'un vrai support de cours et pas "un mot une flèche un mot une flèche"
 102134|IHM|usr5: Le cours en français est beaucoup plus flexible qu'en anglais
+102250|Web Semantique|usr5: ^ Je pense qu'il voulait marquer "KidPaddle"
