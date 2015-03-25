@@ -1,1 +1,2 @@
 100739|Logiciel extensible|usr2: Avoir un support de cours, pour réussir à suivre la matière.
+101053|Logiciel extensible|usr2: Typiquement que le prof se mette au niveau de tous les étudiants

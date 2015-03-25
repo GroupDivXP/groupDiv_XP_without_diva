@@ -10,11 +10,11 @@ Compétences acquises:
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
--Utilisation du solveur Minizinc
--Création d'un mini solveur
+-[TP]Utilisation du solveur Minizinc
+-[Projet]Création d'un mini solveur
 
 Améliorations à apporter:
-
+-Aucune
 ========================================================
 Multicore Programming
 ========================================================
@@ -25,5 +25,7 @@ Compétences acquises:
 
 Programme:
 -Librairies multi-thread: OpenMp, Intel TBB, MPI et la librairie standard C++11
+-[Projet]Utilisation du multithreading pour optimiser un programme C++
 
 Améliorations à apporter:
+-Aucune

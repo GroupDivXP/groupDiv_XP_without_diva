@@ -19,3 +19,5 @@ Ameliorations a apporter:
 
 Présence du professeur lors des cours.
 Support de cours.
+
+Un truc

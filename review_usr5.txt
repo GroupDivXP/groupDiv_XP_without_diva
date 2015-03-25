@@ -1,0 +1,1 @@
+101046|Concepts et outils de developpement|usr5: En modification a apporter pouvoir introduire une veritable partie liee aux enjeux des bases de donnees NoSQL a la vogue comme MangoDB
