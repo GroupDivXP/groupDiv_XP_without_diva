@@ -6,12 +6,15 @@ Pré-requis:
 
 Compétences acquises:
 -Modélisation de problèmes (variables binaires et entières)
--Utilisation d'algorithmes pour éliminer des non-solutions
+-Utilisation d'algorithmes pour éliminer des non-solutions (Prunning)
 	-->Backtracking
 	-->Branch and Prune
+	-->Forward checking
+	-->Recherche Locale
 
 Programme:
 -Modélisation d'un problème grâce à des contraintes
+-Algorithmes de prunning
 -[TP] Utilisation du solveur Minizinc
 -[Projet] Création d'un mini solveur
 
