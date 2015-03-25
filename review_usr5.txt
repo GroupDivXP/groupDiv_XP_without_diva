@@ -2,3 +2,4 @@
 101648|IHM|usr5: Amélioration : revoir le nombre de projets par rapport à l'ensemble des enseignements de M1 qui nécessitent tous 1 projet conséquent
 101738|Concepts et outils de developpement|usr5: Pré-requis : connaissance de la gestion de mémoire dans l'architecture des ordinateurs
 102004|Logiciel extensible|usr5: Pour le projet : définir plus clairement le type de structure attendu dès le départ (et pas à mi-run)
+102019|Logiciel extensible|usr5: Disposer d'un vrai support de cours et pas "un mot une flèche un mot une flèche"
