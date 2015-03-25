@@ -9,6 +9,7 @@ Competences acquises:
 Programme:
 -Modélisation d'un problème grâce à des contraintes
 -Utilisation du solveur Minizinc
+-Création d'un mini solveur
 
 Ameliorations a apporter:
 
