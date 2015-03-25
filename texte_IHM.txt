@@ -1,16 +1,16 @@
 Pre-requis:
-Programmation C++ et Java.
+-Programmation C++ et Java.
 
 
 Competences acquises:
-Analyses d'un programme en vue de déterminer les éléments à mettre en avant dans l'interface.
-Devellopement d'interfaces graphiques.
+-Analyses d'un programme en vue de déterminer les éléments à mettre en avant dans l'interface.
+-Devellopement d'interfaces graphiques.
 
 
 Programme:
-Conception papier puis dévelloppement d'une interface pour ordinateur de bureau.
-Conception papier puis dévelloppement d'une interface pour Android.
+-Conception papier puis dévelloppement d'une interface pour ordinateur de bureau.
+-Conception papier puis dévelloppement d'une interface pour Android.
 
 Ameliorations a apporter:
-Rendre les projets moins long (en faire un seul) pour permettre aux étudiants 
+-Rendre les projets moins long (en faire un seul) pour permettre aux étudiants 
 de produir un meilleur résultat.
