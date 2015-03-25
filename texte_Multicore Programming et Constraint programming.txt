@@ -2,7 +2,7 @@
 		Constraint Programming
 ========================================================
 Pré-requis:
--Avoir des notions de Recherche opérationnelle
+-Avoir des notions de Recherche Opérationnelle
 
 Compétences acquises:
 -Modélisation de problèmes (variables binaires et entières)
@@ -16,7 +16,7 @@ Programme:
 -[Projet] Création d'un mini solveur
 
 Améliorations à apporter:
--Le professeur ne devrait pas considérer que tous ses élèves ont des notions de recherche opérationnelle
+-Le professeur ne devrait pas considérer que tous ses élèves ont des notions de Recherche Opérationnelle
 
 ========================================================
 		Multicore Programming
