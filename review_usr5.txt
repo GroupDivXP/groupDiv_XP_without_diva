@@ -1,1 +1,2 @@
 101046|Concepts et outils de developpement|usr5: En modification a apporter pouvoir introduire une veritable partie liee aux enjeux des bases de donnees NoSQL a la vogue comme MangoDB
+101648|IHM|usr5: Amélioration : revoir le nombre de projets par rapport à l'ensemble des enseignements de M1 qui nécessitent tous 1 projet conséquent
