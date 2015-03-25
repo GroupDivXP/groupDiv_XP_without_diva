@@ -1,0 +1,13 @@
+Pre-requis: Savoir ce qu'est une base de donnée et comment elle fonctionne.
+
+
+
+Competences acquises: Réalisation de graph RDF. Compréhension et utilisation du SPARQL. Réalisation de requête afin de questionner une base de donnée.
+
+
+
+Programme: Graph RDF. SPARQL. Endpoints. Open Data. Projet dataNantes, loodpadle.
+
+
+
+Ameliorations a apporter: Travailler plus tôt sur le projet. Consacrer entièrement plusieurs séances de TP afin de travailler sur le projet.
